@@ -1,1 +1,42 @@
-ok
+deepu one issue
+
+getcorepropert issue undi kada
+
+get_property = /global/api/getbundle use cheyammanru chesanu
+
+reminder recall kuda change chasanu
+
+status 200 vasthundhi
+
+
+but response :
+
+{
+    "status": "ERROR",
+    "message": "Encountered validation error(s)",
+    "errors": {
+        "objects": "No objects found in request."
+    }
+}
+
+
+
+madam em chepthundhi antae
+e request ni pass cheyamani 
+
+
+{
+    "objects": [
+        {
+            "name": "GET_PROPERTY",
+            "params": {
+                
+                "key": "reminder.recall.date.settings"
+            }
+        }
+    ]
+}
+
+
+
+e change ekkada cheyali ..........
