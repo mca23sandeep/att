@@ -1,16 +1,3 @@
-deepu one issue
-
-getcorepropert issue undi kada
-
-get_property = /global/api/getbundle use cheyammanru chesanu
-
-reminder recall kuda change chasanu
-
-status 200 vasthundhi
-
-
-but response :
-
 {
     "status": "ERROR",
     "message": "Encountered validation error(s)",
@@ -19,55 +6,4 @@ but response :
     }
 }
 
-
-
-madam em chepthundhi antae
-e request ni pass cheyamani 
-
-
-{
-    "objects": [
-        {
-            "name": "GET_PROPERTY",
-            "params": {
-                
-                "key": "reminder.recall.date.settings"
-            }
-        }
-    ]
-}
-
-
-
-e change ekkada cheyali ..........
-
-
-
-and inko issue 
-
-Request URL:
-https://test.njiis.njdoh.net/core/ms/global/api/getBundle
-[Yesterday 3:08 PM] Puram, Madhavi [DOH]
-payload : {lovList: [{key: "ICE_VACCINE_GROUP", type: "LOV"}]}
-lovList: [{key: "ICE_VACCINE_GROUP", type: "LOV"}]
- 
-[Yesterday 3:09 PM] Puram, Madhavi [DOH]
-response :  {
-    "status": "ERROR",
-    "message": "Encountered validation error(s)",
-    "errors": {
-        "objects": "No objects found in request."
-    }
-}
-
-
-
-e URL Use cheyamandhi :  
-https://test.njiis.njdoh.net/core/ms/global/api/getLovBundle   instead of above but edi already undi config.ts lo
-
-
-
-
-
-
-
+i need above request ?
