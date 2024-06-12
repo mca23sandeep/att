@@ -12,3 +12,6 @@ java -jar java21.jar "ur mesg " -------------------- enti edi
 u can communicate            --------------------
 java application send email without entering ur email 
 just run jar file 
+
+
+rest api send email 
